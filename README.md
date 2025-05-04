@@ -1,48 +1,41 @@
 ![Screen Time Dashboard](screen_time_chart.png)
 
-# 📊 Screen Time Analysis Project
+# 📊 Average Daily Screen Time for Children
 
-## 🎯 Objective
-This project analyzes screen time usage among kids using:
-- **SQL**: Cleaning & analyzing structured data.
-- **Excel**: Data organization & preliminary cleaning.
-- **Power BI**: Creating dynamic visualizations.
-- **Google Forms**: Designing & distributing surveys for data collection.
-- **Jupyter Notebook**: Documenting workflow interactively.
+## 🎯 Project Goal
+ This project examines the daily screen time habits of children aged 0–10 years, focusing on:
+- Average time spent on screens
+- Most used devices and preferred content types
+- Behavioral and emotional impacts
+- Effective strategies for reducing screen time
+The main goal is to provide insights that help parents manage screen exposure and encourage healthier digital habits.
 
 ---
 
-## 🛠 Project Process Overview
+## 📂 Data Used
+- **Data Collection** → Conducted via **Google Forms** survey distributed to parents.  
+- **Age Group** → Focused on **children aged 0–10 years**.  
+- **Data Cleaning & Analysis** → Processed using **SQL**.  
+- **Data Visualization** → Created in **Power BI**.  
 
-### **1️⃣ Data Collection & Survey Design**
-- Survey was designed using **Google Forms** and distributed to parents.
-- Focused on:
-  - Daily screen time
-  - Device usage
-  - Favorite apps
-  - Behavioral impacts
-- Responses categorized by **age group & screen habits**.
+---
 
-### **2️⃣ Data Cleaning & Organization**
-- Used **SQL & Excel** to clean data:
-  - Handled missing values, duplicates, and inconsistencies.
-  - Structured datasets for analysis and visualization.
+## 📌 Key Questions Explored
+- What is the **average daily screen time** among children?  
+- What **devices** are most commonly used?  
+- What **content types** do children prefer?  
+- How does excessive screen time **impact emotions and behavior**?  
+- What **strategies do families use** to limit screen exposure?  
 
-### **3️⃣ Data Analysis & Visualization**
-Power BI generated insights such as:
-- 📈 **Average daily screen time per age group**
-- 📱 **Preferred digital platforms & content types**
-- 🔎 **Observed behavioral & health changes**
+---
 
-Embedded **interactive dashboards** into **Jupyter Notebook** using the **Power BI API** for live reporting.
-
-### **4️⃣ Interpretation of Results**
-- Findings suggest **screen time affects mood, sleep, & physical health**.
-- Identified **parental monitoring habits & strategies** for regulating screen time.
-
-### **5️⃣ Recommendations & Strategies**
-💡 **Alternative Activities:** Outdoor play, reading, family engagement.  
-📏 **Parental Guidelines:** Screen-free zones, structured routines, role modeling.  
-🎭 **Behavioral Strategies:** Usage limits, rewarding balanced screen habits, improving digital literacy.
-
+## 📊 Summary of Findings
+- **Most used device** → **TV** is the dominant screen choice for children.  
+- **Preferred content types** → **Educational & Entertainment** content are most watched.  
+- **Emotional changes linked to screen time**:
+  - **Anger, irritability, frustration, stress, anxiety, aggression, impatience, moodiness, grumpiness, silence, boredom**.  
+- **Most effective strategies to reduce screen time**:
+  - **Spending time with friends** and **peer group play**.
+  - **Family activities** like **eating together** and **structured playtime**.
+  - **Social interactions** through **meetings with friends**.
 
