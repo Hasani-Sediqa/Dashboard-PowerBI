@@ -8,6 +8,7 @@
 - Most used devices and preferred content types
 - Behavioral and emotional impacts
 - Effective strategies for reducing screen time
+
 The main goal is to provide insights that help parents manage screen exposure and encourage healthier digital habits.
 
 ---
