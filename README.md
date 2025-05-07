@@ -1,6 +1,6 @@
-![Screen Time Dashboard](screen_time_chart.png)
-
 # 📊 Average Daily Screen Time for Children
+
+![Screen Time Dashboard](screen_time_chart.png)
 
 ## 🎯 Project Goal
  This project examines the daily screen time habits of children aged 0–10 years, focusing on:
