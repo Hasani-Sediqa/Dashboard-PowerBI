@@ -39,4 +39,6 @@ The main goal is to provide insights that help parents manage screen exposure an
   - **Spending time with friends** and **peer group play**.
   - **Family activities** like **eating together** and **structured playtime**.
   - **Social interactions** through **meetings with friends**.
+ 
+    [Click Here To Explore More](https://hasani-sediqa.github.io/Screen-Time-Children/index.html)
 
